@@ -1,0 +1,39 @@
+Installations/
+
+1) Python (3.8.10)
+
+2) Microsoft Visual Studio (Desktop Development with C++)
+
+3) Open VS Code (Create a Virtual Environment (venv) at ProjectFolder)
+
+4) Activate the Virtual Environment (venv)
+
+4) Install the following dependencies:
+
+	i) numpy==1.24.1
+	ii) pandas==1.5.2
+	iii) matplotlib==3.6.2
+	iv) seaborn==0.12.1
+	v) opencv-python==4.9.0.80
+	vi) cmake==3.25.0
+	vii) dlib==19.20.0
+	viii) face-recognition==1.3.0
+	ix) cvzone==1.5.6
+	x) firebase_admin==6.1.0
+	xi) flask==2.3.2
+
+
+
+Running the Program/
+
+1) Firebase Setup (Realtime Database, Storage Bucket & Firebase Admin SDK)
+
+2) Activate the Virtual Environment (venv)
+
+3) Run "database.py" file
+
+4) Run "encoder.py" file
+
+5) Run "app.py" file (Application)
+
+6) Run "webapp.py" file (Web Application)
