@@ -12,7 +12,7 @@ By eliminating the need for physical contact and reducing human error, this mode
 
 ## Technical Requirements
 
-### Programming Languages:
+### Programming Language:
 
 Python: The primary language for backend development and face recognition algorithms.
 
@@ -77,10 +77,6 @@ Firebase: Used for storing user data, attendance records, and handling authentic
 
 
 ## Deployment
-
-### Deployment Steps
-
-To deploy the Face Recognition Attendance System, follow these steps:
 
 ### Clone the Repository:
 
@@ -176,5 +172,5 @@ python webapp.py
  - [Flask Documentation](https://flask.palletsprojects.com/en/2.3.x/)
  - [Firebase Documentation](https://firebase.google.com/docs)
  - [OpenCV Documentation](https://docs.opencv.org/4.x/)
- - [dlib Documentation](http://dlib.net/)
+ - [Dlib Documentation](http://dlib.net/)
  - [Python Official Documentation](https://docs.python.org/3/)
